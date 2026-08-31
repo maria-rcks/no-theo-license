@@ -2,7 +2,7 @@
 
 A permissive software license for almost everyone.
 
-The No Theo License is based on the MIT License, with one material change: the person publicly known as Theo Browne (`@theo`) receives no rights to the software.
+The No Theo License is based on the MIT License, with one material change: Theodore Browne, publicly known as Theo Browne and by the online identity `@theo`, receives no rights to the software.
 
 ## Use it
 
